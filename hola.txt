@@ -1,0 +1,3 @@
+Hola Git
+ESTE ES UN NUEVO MENSAJE PARA GIT
+GIT STATUS-> es para revisar cambios actualizado o nuevos
