@@ -1,4 +1,5 @@
-Hola Git, Soy Josue Murillo,
-Soy un Ingeniero.
-ESTE ES UN NUEVO MENSAJE PARA GIT para que estudies
+Hola Git, Soy Josue Murillo Gomez
+siuuuuuuuu
+Soy un Ingeniero Software.
+Conceptos nuevos
 GIT STATUS-> es para revisar cambios actualizado o nuevos
