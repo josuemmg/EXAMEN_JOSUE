@@ -1,5 +1,9 @@
+
 Hola Git, Soy Josue Murillo Gomez
 siuuuuuuuu
 Soy un Ingeniero Software.
 Conceptos nuevos
-GIT STATUS-> es para revisar cambios actualizado o nuevos
+GIT STATUS-> es para revisar cambios actualizado
+
+ 
+
